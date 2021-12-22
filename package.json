@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "remixd": "^0.2.4"
+  }
+}
